@@ -1,0 +1,16 @@
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/lib/ros2_publisher/publisher_node
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ament_index/resource_index/package_run_dependencies/ros2_publisher
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ament_index/resource_index/parent_prefix_path/ros2_publisher
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/environment/ament_prefix_path.sh
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/environment/ament_prefix_path.dsv
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/environment/path.sh
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/environment/path.dsv
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/local_setup.bash
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/local_setup.sh
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/local_setup.zsh
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/local_setup.dsv
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/package.dsv
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ament_index/resource_index/packages/ros2_publisher
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/cmake/ros2_publisherConfig.cmake
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/cmake/ros2_publisherConfig-version.cmake
+/home/sachin/assignment-ros2-c-publisher-node-aasritha602/install/ros2_publisher/share/ros2_publisher/package.xml
