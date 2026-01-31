@@ -1,0 +1,18 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Accidental builds inside src
+src/build/
+src/install/
+src/log/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# Editor junk
+*~
+*.swp
+.vscode/
